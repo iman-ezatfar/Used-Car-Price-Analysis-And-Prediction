@@ -1,4 +1,4 @@
-# Used-Car-Price-Prediction
+# Used-Car-Price-Analysis-And-Prediction
 
 This project builds predictive models to estimate used car prices based on various vehicle attributes. The workflow includes:
 
